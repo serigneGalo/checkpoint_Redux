@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+body{
+  background: linear-gradient(50deg,#A45D5D,#4A403A) no-repeat;
+  color: #FFC069;
+}
+.App h1 {
+  color: #FFC069;
+}
+
+.App ul {
+  list-style-type: none;
+}
+.App button{
+  color: #4A403A;
+  font-size: large;
+  background-color: #FFC069;
+}
+.App input{
+  background-color: #4A403A;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  color:#FFC069;
+  align-self: center;
+}
+html{
+  background-color: #4A403A;
+}
+
+textarea {
+  padding: 0.5rem;
+  border-radius: 8px;
+  border: none;
+  background-color: #4A403A;
+
+  color: #FFC069;
+  height: 70%;
+}
+
